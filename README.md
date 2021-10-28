@@ -18,7 +18,6 @@
 - 🔭 I’m currently working on PT. Telkom Indonesia as Web Developer Intern
 - 📚 I’m currently studying on Computer Science, Udayana University
 - 👯 I’m looking for a collaborator on an my open source project in [HL Bot](https://github.com/hairullana/hl-bot) Projects
-- 💬 Ask me about Coding, Relationship, or anime
 - 📫 How to reach me: <br />
   LinkedIn: https://www.linkedin.com/in/hairullana <br />
   Facebook: https://web.facebook.com/hairullana99 <br />
