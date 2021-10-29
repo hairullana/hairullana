@@ -19,10 +19,10 @@
 - 📚 I’m currently studying on Computer Science, Udayana University
 - 👯 I’m looking for a collaborator on an my open source project in [HL Bot](https://github.com/hairullana/hl-bot) Projects
 - 📫 How to reach me: <br />
-  LinkedIn: https://www.linkedin.com/in/hairullana <br />
-  Facebook: https://web.facebook.com/hairullana99 <br />
-  Instagram: https://www.instagram.com/hairullana_ <br />
-  Telegram: https://t.me/hairullana <br />
+  LinkedIn: <a href="https://www.linkedin.com/in/hairullana">linkedin.com/in/hairullana</a> <br />
+  Facebook: <a href="https://web.facebook.com/hairullana99">fb.com/hairullana99</a> <br />
+  Instagram: <a href="https://www.instagram.com/hairullana_">instagram.com/hairullana_</a> <br />
+  Telegram: <a href="https://www.instagram.com/hairullana_">t.me/hairullana</a> <br />
 
 <br/>
 <div align="center">
