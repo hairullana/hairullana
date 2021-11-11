@@ -17,7 +17,6 @@
 - 📍 I’m from Karangasem, Bali, Indonesia
 - 🔭 I’m currently working on PT. Telkom Indonesia as Web Developer Intern
 - 📚 I’m currently studying on Computer Science, Udayana University
-- 👯 I’m looking for a collaborator on an my open source project in [HL Bot](https://github.com/hairullana/hl-bot) Projects
 - 📫 How to reach me: <br />
   LinkedIn: <a href="https://www.linkedin.com/in/hairullana">linkedin.com/in/hairullana</a> <br />
   Facebook: <a href="https://web.facebook.com/hairullana99">fb.com/hairullana99</a> <br />
