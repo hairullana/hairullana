@@ -6,5 +6,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hairullana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hairullana&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-[![An image of @hairullana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hairullana)](https://holopin.io/@hairullana)
 </p>
